@@ -4,14 +4,14 @@
 ```
 fun MaintainStatus(){
     val 项目作者 = "秋城落叶"
-    val 更新日期 = "2020-02-15"
+    val 更新日期 = "2020-12-07"
     val 适配状况 = "机型一览"
     const val FX53VD = 
         "
             ASUS 飞行堡垒 FX53VD[主要维护机型]
             完成进度:100%.
-            适配系统:10.14.x/10.15.3
-            最新引导:EFI - OpenCore - V4.zip
+            适配系统:10.14.x/10.15.x/11.1 Beta 1
+            最新引导:EFI - OpenCore - V8 Big Sur Version 11.1 Beta 1.zip
                 完美程度:
             FX53VD I5 I7 处理器通用.
             下载好原版镜像直接替换成我的EFI包,全过程一遍安装通过,完整白苹果体验.
